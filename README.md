@@ -1,5 +1,5 @@
 # mkwy-pralnia
-Prosty skrypt na pralnie brudnych pieniędzy
+Rozbudowany skrypt na pralnie brudnych pieniędzy
 
 ***</MKWY Inc.>***
 > **Znajdź pomoc w sferze FiveM i nie tylko!**
